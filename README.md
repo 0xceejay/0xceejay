@@ -1,12 +1,37 @@
-### Hi there 👋
-Hi, I'm Emmanuel Njoku, a DevOps Engineer with experience in designing, building, and maintaining infrastructure and deploying applications on servers. I have a strong background in Linux administration, network infrastructure, automation, scripting, and cloud computing. I'm passionate about finding new and efficient ways to optimize infrastructure and streamline processes.
+### Hi there 👋  
 
-#### Skills
-* Automation: Proficient in Ansible for configuration management and Terraform for infrastructure provisioning.
-* Cloud computing: Extensive experience with AWS, and Digital Ocean.
-* Monitoring: Strong knowledge of monitoring tools such as Prometheus and Grafana.
-* Containerization: Experience with Docker, and Kubernetes.
-* CI/CD: Knowledge of Jenkins, TravisCI, and Github Actions for continuous integration and deployment.
+I'm **Emmanuel Njoku**, a **DevOps Engineer** passionate about building reliable, automated, and scalable systems — now transitioning into the world of **Robotics** 🤖.  
+
+I have hands-on experience designing, deploying, and maintaining infrastructure using modern DevOps practices. My focus is on optimizing workflows, automating repetitive tasks, and bridging the gap between software and hardware systems.  
+
+---
+
+#### 🧰 Tech Stack & Skills  
+
+- **Automation:** Ansible | Terraform  
+- **Cloud Computing:** AWS | DigitalOcean  
+- **Monitoring:** Prometheus | Grafana  
+- **Containerization:** Docker | Kubernetes  
+- **CI/CD:** Jenkins | Travis CI | GitHub Actions  
+- **Robotics Transition:** Learning **ROS2 (Robot Operating System)**, **robotic simulation (Gazebo, RViz)**, and **Python/C++ control systems**  
+
+---
+
+#### 🌱 Currently Exploring  
+- Robotics software development  
+- Control systems and motion planning  
+- Cloud robotics & infrastructure automation  
+
+---
+
+#### 📫 Get in Touch  
+- **LinkedIn:** [linkedin.com/in/Emmanuel-Njoku](https://www.linkedin.com/in/0xceejay/)  
+- **Email:** [GMAIL](odaugwu@gmail.com)  
+
+
+  
+
+
 
 <!--
 **0xceejay/0xceejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
