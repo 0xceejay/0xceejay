@@ -13,7 +13,7 @@ I have hands-on experience designing, deploying, and maintaining infrastructure 
 - **Monitoring:** Prometheus | Grafana  
 - **Containerization:** Docker | Kubernetes  
 - **CI/CD:** Jenkins | Travis CI | GitHub Actions  
-- **Robotics Transition:** Learning **ROS2 (Robot Operating System)**, **robotic simulation (Gazebo, RViz)**, and **Python/C++ control systems**  
+- **Robotics:** Learning **ROS2 (Robot Operating System)**, **robotic simulation (Gazebo, RViz)**, and **Control systems**  
 
 ---
 
@@ -26,7 +26,7 @@ I have hands-on experience designing, deploying, and maintaining infrastructure 
 
 #### 📫 Get in Touch  
 - **LinkedIn:** [linkedin.com/in/Emmanuel-Njoku](https://www.linkedin.com/in/0xceejay/)  
-- **Email:** [GMAIL](odaugwu@gmail.com)  
+
 
 
   
